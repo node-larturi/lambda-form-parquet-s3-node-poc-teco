@@ -1,0 +1,17 @@
+{
+  "name": "lambda-parquet-s3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lea.arturi",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1344.0",
+    "aws-sdk-mock": "^5.8.0",
+    "fast-csv": "^4.3.6",
+    "parquetjs": "^0.11.2"
+  }
+}
