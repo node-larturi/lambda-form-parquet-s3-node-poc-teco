@@ -12,6 +12,9 @@ npm install -g lambda-local
 lambda-local -l index.js -h handler -e mock/event.json --envfile .env 
 ```
 
+## VSC parquet-viewer
+<https://marketplace.visualstudio.com/items?itemName=dvirtz.parquet-viewer>
+
 ## Production
 
 #### Generate the zip and upload manualy in AWS
